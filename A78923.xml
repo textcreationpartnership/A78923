@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gratious ansvver at the delivery of the propositions for peace. Certified to the Parliament by a letter from the Earle of Pembrook, and the commissioners. Who presented them to the King on Tuesday last, at Hampton Court, Septemb. 7. 1647. Also His Majesties last propositions.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78923</idno>
+            <idno type="STC">Wing C2499</idno>
+            <idno type="STC">Thomason E406_12</idno>
+            <idno type="STC">ESTC R201916</idno>
+            <idno type="EEBO-CITATION">99862398</idno>
+            <idno type="PROQUEST">99862398</idno>
+            <idno type="VID">114557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114557)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gratious ansvver at the delivery of the propositions for peace. Certified to the Parliament by a letter from the Earle of Pembrook, and the commissioners. Who presented them to the King on Tuesday last, at Hampton Court, Septemb. 7. 1647. Also His Majesties last propositions.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Pembroke, Philip Herbert, Earl of, 1584-1650.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>The propositions referred to in the title are Charles I's of May 12, 1647; his answer is narrated on page 6, in "A letter from a gentleman at Hampton Court", which is dated at end: the 8. of Septemb. 1647.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e.September] 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114557:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES Moſt Gratious ANSVVER <hi>At the Delivery of the PROPOSITIONS</hi> for PEACE.</p>
+            <p>
+               <hi>Certified to the</hi> Parliament <hi>by a Letter from the Earle of</hi> Pembrook, <hi>and the Commiſsioners.</hi>
+            </p>
+            <p>WHO Preſented them to the KING on Tueſday laſt, at <hi>Hampton Court, Septemb.</hi> 7. 1647. Alſo His Majeſties laſt <hi>Propoſitions.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+            </figure>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114557:2"/>
+            <pb n="1" facs="tcp:114557:2"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YEſterday in the Evening we preſented the Propo<g ref="char:EOLhyphen"/>ſitions to the <hi>King,</hi> according to our Inſtructions.</p>
+            <p>His Majeſty ſaid, that he would give us His Anſwer as ſoone as he could.</p>
+            <p>And whereas onely three of us are required to returne with it, our humble ſuite is, That having waited upon this ſervice ſo much longer then we expected:</p>
+            <p>Now (at length) we may be permitted, all of us to return with his Majeſties Anſwer, and be diſcharged of this imployment, which ſhall be acknowledged as a great favour, by</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble ſervant, <hi>Pembrook &amp; Montgomery, &amp;c.</hi>
+               </signed>
+               <dateline>Hampton Court <date>the 8 of Septem. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Right Honourable the Earle of <hi>Mancheſter,</hi> Speaker of the Houſe of Peeres <hi>pro tempore.</hi>
+            </trailer>
+         </div>
+         <div type="document">
+            <opener>
+               <signed>Charles Rex.</signed>
+            </opener>
+            <p>AS the daily expectation of the comming of the Propoſitions hath made his Majeſtie this long time to forbeare giving his anſwer unto them, ſo the appearance of their ſending being no more for any thing he can heare, then it was at the firſt comming hither notwithſtanding that the Earle of <hi>Louderdale</hi> hath beene at <hi>London</hi> above theſe ten dayes, (whoſe not comming was ſaid to be the on<g ref="char:EOLhyphen"/>ly ſtop) hath cauſed his Majeſty thus to anticipate their comming to him, and yet conſidering his Condition, that his Servants are denied acceſſe to him, all but very few, and thoſe by appointment not his owne Election, and that it is declared a crime for any but the Commiſſioners, or ſuch who are particularly permitted by them, to converſe with his Majeſty, or that any Letters ſhould be given to, or received from him, may he not truly ſay, that he is
+<pb n="2" facs="tcp:114557:3"/>not in caſe fit to make Conceſſions, or give Anſwers, ſince he is not maſter of thoſe ordinary Actions which are undoubted Rights of any free borne man, how meane his birth be? And certainly, hee would ſtill be ſilent as to this ſubject, untill his Condition were much mended, did he not preferre ſuch a right underſtanding betwixt him and his Parliaments of both King<g ref="char:EOLhyphen"/>domes, which may make a firme and laſting Peace in all His Dominions, before any particular of his owne or any earthly bleſſing: and therefore. His Majeſty hath diligently imployed his utmoſt endeavours for divers months paſt, ſo to informe His Underſtanding, and ſatisfie his Conſcience, that he might bee able to give ſuch Anſwers to the Propoſitions, as would be moſt agreeable to His Parliaments but He ingenuouſly profeſſes, that notwithſtanding all the paines that He hath taken therein, the nature of ſome of them appeares ſuch unto him, that without diſclaiming that Reaſon which God hath given him to judge by for the good of Him and His People, and without putting the greateſt violence upon His owne Conſcience, Hee cannot give His conſent to all of them. Yet His Maieſty (that it may appeare to all the World how deſirous He is to give full ſatis<g ref="char:EOLhyphen"/>faction) hath thought fit hereby to expreſſe His readineſſe to grant what He may, and His willingneſſe to receive from them, and that perſonally if His two Houſes at <hi>Weſtminſter</hi> ſhall ap<g ref="char:EOLhyphen"/>prove thereof, ſuch further information in the reſt as may beſt convince his judgement, and ſatisfie thoſe doubts which are not yet cleare unto him, deſiring them alſo to conſider that if His Majeſty intended to winde himſelfe out of theſe troubles by in<g ref="char:EOLhyphen"/>direct meanes, were it not caſie for him now readily to conſent to what hath on ſhall bee propoſed unto him, and afterwards chuſe his time to breake all, alledging, that forc'e conceſſions are not to be kept ſurely he might, and not incurre a hard cen<g ref="char:EOLhyphen"/>ſure from ſome indifferent men. But maximes in this kinde are not the guides of His Maieſties actions, for he freely and cleerly avows, that he holds it unlawfull for any man, and moſt baſe in a King to recede from his promiſes for having been obtained by force or uncler reſtraint; wherefore His Majeſty not only re<g ref="char:EOLhyphen"/>jecting thoſe acts which he eſteemes unworthy of him, but even paſſing by that which he might well inſiſt upon a point of ho<g ref="char:EOLhyphen"/>nour, in reſpect of his preſent condition, thus anſwers the firſt Propoſition. That upon His Majeſties comming to <hi>London,</hi> he
+<pb n="3" facs="tcp:114557:3"/>will heartily joyne in all that ſhall concerne the honour of his two Kingdomes or the Aſſembly of the States of <hi>Scotland,</hi> or of the Commiſſioners or De<g ref="char:EOLhyphen"/>put<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of either Kingdome, particularly in thoſe things which are deſired in that Propoſition, upon confidence that all of them reſpectively with the ſame tenderneſſe will looke upon thoſe things which concern his Majeſties Honour.</p>
+            <p>In anſwer to all the Propoſitions concerning Religion, His Majeſtie pro<g ref="char:EOLhyphen"/>poſeth, that he will confirme the Presbyteriall Government, the Aſſembly of Divines at <hi>Weſtminſter,</hi> and the Directory, for three yeares, being the time ſet downe by the two Houſes, ſo that his Majeſty and His Houſhold be not hindred from that forme of Gods Service which they formerly have; And alſo, that a free conſultation and debate be had with the Divines at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> (twenty of His Majeſties nomination being added unto them) whereby it may be determined by His Majeſty and the two Houſes, how the Church ſhall be governed after the ſaid three yeares or ſooner, if differences may bee agreed. Touching the Covenant, His Majeſty is not yet therein ſatisfied, and deſires to reſpite his particular anſwer thereunto untill His comming to <hi>London,</hi> becauſe it being a matter of conſcience he cannot give a reſolution therein till he may be aſſiſted with the advice of ſome of His owne Chaplains (which hath hitherto bin denied Him) and ſuch other Divines as ſhall bee moſt proper to informe Him therein; and then He will make clearely appear both His zeale to the Proteſtant profeſſion, and the Union of theſe two King<g ref="char:EOLhyphen"/>domes, which he conceives to be the main drift of this Covenant. To the 7th and 8th Propoſitions, His Majeſty will conſent. To the 9th His Ma<g ref="char:EOLhyphen"/>jeſty doubts not but to give good ſatisfaction when he ſhall be particularly in<g ref="char:EOLhyphen"/>formed how the ſaid pen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lties ſhall be levied and diſpoſed of. To the 10th His Majeſties anſwer is, That h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath beene alwayes ready to prevent the practices of Papiſts, and therefore is content to p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe an Act of Parliament for that purpoſe; And alſo, that the Laws againſt them be duly executed. His Majeſtie will give His conſent to the Act for the due obſervation of the Lords Day, for the ſuppreſſing of Innovations, and thoſe concerning the Preaching of Gods Word, and touching Non-Reſidence and Pluralities, and His Ma<g ref="char:EOLhyphen"/>jeſtie will yeeld to ſuch Act or Acts as ſhall be requiſite to raiſe monies for the payment and ſatisfying all publique Debts expecting alſo that his Will be therein included. As to the Propoſition touching the Militia, though his Maje<g ref="char:EOLhyphen"/>ſty cannot conſent unto it <hi>in terminis</hi> as it is propoſed, becauſe thereby he con<g ref="char:EOLhyphen"/>ceives, hee wholly parts with the power of the Sword entruſted to him by God and the Lawes of the Land, for the protection and government of his people, thereby at once deveſting himſelfe, and diſ-inheriting his Poſterity of that right and Prerogative of the Crowne which is abſolutely neceſſary to the Kingly Office, and ſo weaken Monarchy in this Kingdome, that little
+<pb n="4" facs="tcp:114557:4"/>more the the name &amp; ſhadow of it wil remaine: yet if it be only ſecurity for the preſervation of the Peace of this Kingdome, after the unhappy troubles, and the due performance of all the agreements which are now to be concluded, which is deſired (which his Majeſty alwayes underſtood to be the caſe, and hopes that herein he is not miſtaken) his Majeſty will give aboundant ſatiſ<g ref="char:EOLhyphen"/>faction, to which end he is willing by Act of Parliament, That the whole power of the Militia, both by Sea and Land for the ſpace of ten years be in the hands of ſuch perſons as the two Houſes ſhall nominate, giving them power during the ſaid terme to change the ſaid perſons, and ſubſtitute others in their places at pleaſure, and afterwards to returne to the proper Channel againe, as it was in the times of Queene <hi>Elizabeth</hi> and King <hi>James</hi> of bleſſed memo<g ref="char:EOLhyphen"/>ry. And now his Majeſty conjures his two Houſes of Parliament, as they are Engliſh-men and lovers of Peace, by the duty they owe to his Majeſty their King, and by the bowells of compaſſion they have to their fellow Sub<g ref="char:EOLhyphen"/>jects that they will accept of this his Majeſties offer, whereby the joyfull newes of Peace may be reſtored to this languiſhing Kingdome, His Majeſty will grant the like to the Kingdom of <hi>Scotland</hi> if it be deſired, and agree to al things that are propounded touching the concerving of peace betwixt the two Kingdomes.</p>
+            <p>Touching <hi>Ireland</hi> (other things being agreed) His Majeſty will give ſatiſ<g ref="char:EOLhyphen"/>faction therein. As to the mutu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Declarations propoſed to be eſtabliſhed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n both Kingdomes by Act of Parliament, And the Modifications, Qualifica<g ref="char:EOLhyphen"/>tions, and Branches which follow in the Propoſitions, His Majeſtie onely profeſſes, that He doth not ſufficiently underſtand, nor is able to reconcile many things contained in them; but this He well knoweth, That a generall Act of Oblivion is the beſt Bond of Peace; and that after inteſtine Troubles, the wiſdome of this and other Kingdomes hath uſually and happily in all ages granted generall Pardons, whereby the numerous diſcontentments of many Perſons and Families otherwiſe expoſed to ruine, might not become fewell to new diſorders, or feeds to future troubles. His Majeſty therfore, deſirs that his two Houſes of Parliament would ſeriouſly deſcend into theſe conſiderations, and likewiſe tenderly looke upon His Condition herein, and the perpetuall diſhonour that muſt cleave to Him, if Hee ſhall abandon ſo many perſons of Condition and Fortune that have ingaged themſelves with, and for Him, out of a ſenſe of Duty, and propounds as a very acceptable teſtimony of their af<g ref="char:EOLhyphen"/>fection to Him, That a generall Act of Oblivion and free pardon be forthwith paſſed by Act of Parliament. Touching the new Great Seale, His Majeſty is very willing to confirme both it and all the Acts done by vertue there of untill this preſent time, ſo that it be not thereby preſſed to make voyd thoſe Acts of His done by vertue of His Great Seale, which in honour and juſtice He is ob<g ref="char:EOLhyphen"/>liged to maintaine; And that the future Government thereof may be in His
+<pb n="5" facs="tcp:114557:4"/>Majeſty, according to the due courſe of Law. Concerning the Officers menti<g ref="char:EOLhyphen"/>oned in the 19. Article, His Majeſty when He ſhall come to <hi>Weſtminſter</hi> will gratifie His Parliament all that poſſibly He may, without deſtroying the alte<g ref="char:EOLhyphen"/>rations which are neceſſary for the Crown. His Majeſty will willingly con<g ref="char:EOLhyphen"/>ſent to the Act for the confirmation of the Priviledges and Cuſtomes of the City of <hi>London,</hi> and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll that is mentioned in the Propoſitions for their particu<g ref="char:EOLhyphen"/>lar advantage. And now that his Majeſty hath thus farre undeavoured to com<g ref="char:EOLhyphen"/>ply with the deſires of His two Houſes of Parliament, to the end that this a<g ref="char:EOLhyphen"/>greement may be firme and laſting, with out the leaſt face or queſtion of re<g ref="char:EOLhyphen"/>ſtraint to blemiſh the ſame, His Maieſty earneſtly deſires preſently to bee admitted to his Parliament at <hi>Weſtminſter,</hi> with that Honour which is due to their Soveraigne, there ſolemnly to confirme the ſame, and legally to paſſe the Acts before mentioned, and to give and receive as well ſatisfaction in all the remaining particulars, as likewiſe ſuch other pledges of mutuall love, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſt, and confidence as ſhall moſt concerne the good of Him, and His people; up<g ref="char:EOLhyphen"/>on which happy agreement, His Majeſty will diſpatch His Directions to the Prince His Son, to returne immediately to Him, and will undertake for His ready obedience thereunto.</p>
+            <closer>
+               <dateline>Holdenby <date>May 12. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Speaker of the Lords Houſe <hi>(pro tempore)</hi> to be communica<g ref="char:EOLhyphen"/>ted to the Lords and Commons in the Parliament of <hi>England</hi> at <hi>Weſtminſter,</hi> and the Commiſsioners of the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland</hi>
+            </trailer>
+         </div>
+         <div type="letter">
+            <head>A Letter from a Gentleman from <hi>Hampton Court</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Commiſſioners from both kingdomes delivered the Pro<g ref="char:EOLunhyphen"/>poſitions to the <hi>King</hi> yeſternight; There were here with hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſty to preſent them, The Earle of <hi>Pembrook,</hi> the Lord <hi>Moun<g ref="char:EOLhyphen"/>tague,</hi>
+               <pb n="6" facs="tcp:114557:5"/>Sir <hi>James Harrington,</hi> Sir <hi>John Cooke,</hi> Sir <hi>John Holland,</hi> Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Browne,</hi> Commiſſioners from both Houſes of the Parliament of <hi>England,</hi> And the Earle of <hi>Loutherdale,</hi> and three other Commiſſioners, from the kingdome of <hi>Scotland.</hi> Here were then with his Majeſty the Duke of <hi>York,</hi> and the Duke of <hi>Gloceſter,</hi> his Children.</p>
+            <p>His Majeſty haſtens to returne Anſwer, I perceive that the <hi>Pro<g ref="char:EOLhyphen"/>poſitions</hi> are little altered (onely in circumſtances chiefly) from thoſe which were ſent to his Majeſty at <hi>Newcaſtle,</hi> which, were an<g ref="char:EOLhyphen"/>ſwered from <hi>Holdenbey,</hi> wherein you may perceive what was then complained of, concerning ſtraitneſſe and other things, which is ſince more ſatisfactory.</p>
+            <p>I doe not perceive by any thing that hath been ſpoken or done, that there is more approbation then before; you remember (I ſup<g ref="char:EOLhyphen"/>poſe) the particulars then tendered to both Houſes by his Maje<g ref="char:EOLhyphen"/>ſties Meſſage of <hi>May</hi> 12. Since which ſome overtures have been between Agents from his Majeſty and the Army; concerning divers things in reference to the kingdome, and I hope there will be a good iſſue.</p>
+            <p>His Excellency Sir <hi>Thomas Fairfax,</hi> hath both declared, and alſo propounded ſome things (in his <hi>Declarations</hi> and <hi>Propoſalls</hi>) publiſhed concerning his Majeſty, and alſo concerning divers things not much different from the <hi>Propoſitions</hi> delivered to his Majeſty now.</p>
+            <p>And the whole are matters of great importance: which will take up time to be fully finiſhed: But there will be no delay.</p>
+            <closer>
+               <dateline>Dated at <hi>Hampton Court</hi> 
+                  <date>the 8. of <hi>Septemb.</hi> 1647,</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
